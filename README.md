@@ -1,4 +1,4 @@
-<h1>Merge two files using Dataflow runner</h1>
+<h1>Merge two files using Apache Beam Python SDK</h1>
 
 _logic_Dataflow.py_ contains the python script that can either read csv files from a GCS Bucket or from local system and upload it to BigQuery sink.
 
