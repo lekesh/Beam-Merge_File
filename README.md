@@ -18,7 +18,7 @@ _logic_Dataflow.py_ contains the python script that can either read csv files fr
 2. Create a _.env_ file and include all the environment variables and install python-dotenv package in the virtual environment
 3. Edit and run the _command.sh_ file in bash or zsh CLI
 
-<h3>When using DataflowRunner</h3>
+<h3>When using Dataflow in GCP</h3>
 
 1. Upload the csv files and python file to a GCS Bucket
 2. Replace all the environment variables with explicit values 
