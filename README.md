@@ -1,11 +1,11 @@
 <h1>Merge two files using Apache Beam Python SDK</h1>
 
-<h2>
+<h4>
   Beam is particularly useful for embarrassingly parallel data processing tasks, in which the problem can be decomposed into many smaller bundles of data that can be processed independently and in parallel.
-</h2>
-<h2>
+</h4>
+<h4>
   When very large data is used for transformation Beam can show big difference in data processing time compared to conventional method.
-</h2>
+</h4>
   
 _logic_Dataflow.py_ contains the python script that can either read csv files from a GCS Bucket or from local system and upload it to BigQuery sink.
 
